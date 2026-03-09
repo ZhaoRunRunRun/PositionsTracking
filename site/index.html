@@ -26,7 +26,7 @@
     </header>
 
     <main class="shell">
-      <section class="section split stage-split">
+      <section class="section dashboard-stack">
         <div class="panel stage-panel">
           <div class="section-head compact">
             <h2>人物选择台</h2>
@@ -39,20 +39,28 @@
             <h2>组合饼状图</h2>
             <p id="pieSubtitle">显示当前人物前 12 大持仓占比。</p>
           </div>
-          <div class="pie-stage">
-            <canvas id="donutChart" width="520" height="520"></canvas>
-            <div class="pie-center">
-              <p id="centerQuarter" class="eyebrow"></p>
-              <h3 id="centerName"></h3>
-              <strong id="centerValue"></strong>
-              <button id="openModalButton" class="glow-button">查看详细持仓</button>
+          <div class="spotlight-grid">
+            <div class="pie-stage">
+              <canvas id="donutChart" width="520" height="520"></canvas>
+              <div class="pie-center">
+                <p id="centerQuarter" class="eyebrow"></p>
+                <h3 id="centerName"></h3>
+                <strong id="centerValue"></strong>
+                <button id="openModalButton" class="glow-button">查看详细持仓</button>
+              </div>
+            </div>
+            <div>
+              <div class="legend-head">
+                <h3>组分明细</h3>
+                <p>右侧逐项展示该组合中每个仓位的权重与市值。</p>
+              </div>
+              <div id="legendList" class="legend-list legend-panel"></div>
             </div>
           </div>
-          <div id="legendList" class="legend-list"></div>
         </div>
       </section>
 
-      <section class="section split">
+      <section class="section analytics-stack">
         <div class="panel">
           <div class="section-head compact">
             <h2>资金异动聚焦</h2>
@@ -65,7 +73,7 @@
             <h2>10 年趋势曲线</h2>
             <p>看组合价值如何穿越不同市场周期。</p>
           </div>
-          <div class="chart-wrap">
+          <div class="chart-wrap chart-panel">
             <canvas id="timelineChart" width="640" height="320"></canvas>
           </div>
         </div>
