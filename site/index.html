@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Positions Tracking</title>
+    <meta name="description" content="科技风投资人持仓追踪看板，追踪 13F 持仓、季度变化与 10 年历史趋势。" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="bg-grid"></div>
+    <header class="hero shell">
+      <div>
+        <p class="eyebrow">13F INTELLIGENCE BOARD</p>
+        <h1>著名投资人物持仓雷达</h1>
+        <p class="lede">直观看持仓规模、季度变化、核心仓位与 10 年回溯轨迹。数据来自 SEC 13F 文件，按日自动更新。</p>
+      </div>
+      <div class="hero-panel">
+        <div class="stat-pill"><span>追踪跨度</span><strong id="yearsBack">10Y</strong></div>
+        <div class="stat-pill"><span>跟踪投资人</span><strong id="investorCount">--</strong></div>
+        <div class="stat-pill"><span>最后更新</span><strong id="generatedAt">--</strong></div>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="section">
+        <div class="section-head">
+          <h2>全局排行</h2>
+          <p>按最近一期 13F 持仓市值排序。</p>
+        </div>
+        <div id="rankingGrid" class="ranking-grid"></div>
+      </section>
+
+      <section class="section split">
+        <div class="panel">
+          <div class="section-head compact">
+            <h2>资金异动聚焦</h2>
+            <p>筛出最显著的增持、减持、新进与清仓。</p>
+          </div>
+          <div id="changesList" class="changes-list"></div>
+        </div>
+        <div class="panel">
+          <div class="section-head compact">
+            <h2>10 年趋势曲线</h2>
+            <p>选中人物后查看组合价值变化。</p>
+          </div>
+          <div class="chart-wrap">
+            <canvas id="timelineChart" width="640" height="320"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>投资人详情</h2>
+          <p>点击卡片切换人物，查看最新持仓与季度变更。</p>
+        </div>
+        <div id="investorTabs" class="investor-tabs"></div>
+        <div class="detail-grid">
+          <div class="panel detail-panel">
+            <div class="detail-title">
+              <div>
+                <p id="detailEntity" class="eyebrow"></p>
+                <h3 id="detailName"></h3>
+              </div>
+              <div class="detail-meta">
+                <span id="detailQuarter"></span>
+                <strong id="detailValue"></strong>
+              </div>
+            </div>
+            <div id="holdingsTable" class="table-card"></div>
+          </div>
+          <div class="panel detail-panel">
+            <div class="section-head compact">
+              <h2>季度变化拆解</h2>
+              <p>与上一份 13F 申报相比。</p>
+            </div>
+            <div id="detailChanges" class="changes-list detail-changes"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="errorsSection" class="section hidden">
+        <div class="panel warning-panel">
+          <div class="section-head compact">
+            <h2>抓取告警</h2>
+            <p>以下对象本轮更新失败，页面仍会显示已成功的数据。</p>
+          </div>
+          <div id="errorsList"></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
