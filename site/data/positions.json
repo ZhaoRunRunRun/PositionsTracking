@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T03:31:43Z",
+  "generatedAt": "2026-06-14T08:18:07Z",
   "yearsBack": 10,
-  "investorCount": 9,
+  "investorCount": 10,
   "rankings": [
     {
       "name": "Warren Buffett",
@@ -26,6 +26,14 @@
       "portfolioValue": 22404547000,
       "valueChange": -5017066000,
       "topHolding": "VANGUARD INTL EQUITY INDEX F"
+    },
+    {
+      "name": "Bill Ackman",
+      "entity": "Pershing Square Capital Management",
+      "quarter": "Q1-2026",
+      "portfolioValue": 13714299000,
+      "valueChange": -1812438000,
+      "topHolding": "ZOETIS INC"
     },
     {
       "name": "Carl Icahn",
@@ -108,6 +116,16 @@
       "status": "new"
     },
     {
+      "investor": "Bill Ackman",
+      "entity": "Pershing Square Capital Management",
+      "name": "ZOETIS INC",
+      "cusip": "98978V103",
+      "value": 1854020000,
+      "previousValue": 1004880000,
+      "diffValue": 849140000,
+      "status": "increased"
+    },
+    {
       "investor": "Carl Icahn",
       "entity": "Icahn Capital",
       "name": "ALLERGAN PLC",
@@ -135,6 +153,16 @@
       "value": 7422194000,
       "previousValue": 6671801000,
       "diffValue": 750393000,
+      "status": "increased"
+    },
+    {
+      "investor": "Bill Ackman",
+      "entity": "Pershing Square Capital Management",
+      "name": "CANADIAN PAC RY LTD",
+      "cusip": "13645T100",
+      "value": 1849817000,
+      "previousValue": 1267408000,
+      "diffValue": 582409000,
       "status": "increased"
     },
     {
@@ -175,26 +203,6 @@
       "value": 449790000,
       "previousValue": 0,
       "diffValue": 449790000,
-      "status": "new"
-    },
-    {
-      "investor": "Dan Loeb",
-      "entity": "Third Point",
-      "name": "FACEBOOK INC",
-      "cusip": "30303M102",
-      "value": 0,
-      "previousValue": 428550000,
-      "diffValue": -428550000,
-      "status": "exited"
-    },
-    {
-      "investor": "David Tepper",
-      "entity": "Appaloosa",
-      "name": "DELTA AIR LINES INC DEL",
-      "cusip": "247361702",
-      "value": 418398000,
-      "previousValue": 0,
-      "diffValue": 418398000,
       "status": "new"
     }
   ],
@@ -1211,6 +1219,536 @@
           "value": 5997000,
           "previousValue": 6086000,
           "diffValue": -89000,
+          "status": "reduced"
+        }
+      ]
+    },
+    {
+      "name": "Bill Ackman",
+      "entity": "Pershing Square Capital Management",
+      "sourceUrl": "https://13f.info/manager/0001336528-pershing-square-capital-management-l-p",
+      "accent": "#38bdf8",
+      "latestQuarter": "Q1-2026",
+      "latestDate": "2026-03-31",
+      "latestPortfolioValue": 13714299000,
+      "portfolioValueChange": -1812438000,
+      "timeline": [
+        {
+          "date": "2016-03-31",
+          "quarter": "Q1-2016",
+          "portfolioValue": 8852978000,
+          "holdingsCount": 9,
+          "topHolding": "ZTS",
+          "filedAt": "5/16/2016"
+        },
+        {
+          "date": "2016-06-30",
+          "quarter": "Q2-2016",
+          "portfolioValue": 7512967000,
+          "holdingsCount": 9,
+          "topHolding": "QSR",
+          "filedAt": "8/15/2016"
+        },
+        {
+          "date": "2016-09-30",
+          "quarter": "Q3-2016",
+          "portfolioValue": 5412894000,
+          "holdingsCount": 9,
+          "topHolding": "QSR",
+          "filedAt": "11/14/2016"
+        },
+        {
+          "date": "2016-12-31",
+          "quarter": "Q4-2016",
+          "portfolioValue": 5913210000,
+          "holdingsCount": 8,
+          "topHolding": "QSR",
+          "filedAt": "2/14/2017"
+        },
+        {
+          "date": "2017-03-31",
+          "quarter": "Q1-2017",
+          "portfolioValue": 5960734000,
+          "holdingsCount": 7,
+          "topHolding": "QSR",
+          "filedAt": "5/15/2017"
+        },
+        {
+          "date": "2017-06-30",
+          "quarter": "Q2-2017",
+          "portfolioValue": 6014517000,
+          "holdingsCount": 7,
+          "topHolding": "QSR",
+          "filedAt": "8/14/2017"
+        },
+        {
+          "date": "2017-09-30",
+          "quarter": "Q3-2017",
+          "portfolioValue": 5114152000,
+          "holdingsCount": 6,
+          "topHolding": "QSR",
+          "filedAt": "11/14/2017"
+        },
+        {
+          "date": "2017-12-31",
+          "quarter": "Q4-2017",
+          "portfolioValue": 5872732000,
+          "holdingsCount": 7,
+          "topHolding": "QSR",
+          "filedAt": "2/14/2018"
+        },
+        {
+          "date": "2018-03-31",
+          "quarter": "Q1-2018",
+          "portfolioValue": 4832044000,
+          "holdingsCount": 7,
+          "topHolding": "QSR",
+          "filedAt": "5/15/2018"
+        },
+        {
+          "date": "2018-06-30",
+          "quarter": "Q2-2018",
+          "portfolioValue": 5804747000,
+          "holdingsCount": 8,
+          "topHolding": "QSR",
+          "filedAt": "8/14/2018"
+        },
+        {
+          "date": "2018-09-30",
+          "quarter": "Q3-2018",
+          "portfolioValue": 5208720000,
+          "holdingsCount": 7,
+          "topHolding": "QSR",
+          "filedAt": "11/14/2018"
+        },
+        {
+          "date": "2018-12-31",
+          "quarter": "Q4-2018",
+          "portfolioValue": 5957319000,
+          "holdingsCount": 9,
+          "topHolding": "QSR",
+          "filedAt": "2/14/2019"
+        },
+        {
+          "date": "2019-03-31",
+          "quarter": "Q1-2019",
+          "portfolioValue": 6716615000,
+          "holdingsCount": 8,
+          "topHolding": "CMG",
+          "filedAt": "5/15/2019"
+        },
+        {
+          "date": "2019-06-30",
+          "quarter": "Q2-2019",
+          "portfolioValue": 6708001000,
+          "holdingsCount": 8,
+          "topHolding": "CMG",
+          "filedAt": "8/14/2019"
+        },
+        {
+          "date": "2019-09-30",
+          "quarter": "Q3-2019",
+          "portfolioValue": 223461000,
+          "holdingsCount": 1,
+          "topHolding": "A",
+          "filedAt": "12/9/2019"
+        },
+        {
+          "date": "2019-09-30",
+          "quarter": "Q3-2019",
+          "portfolioValue": 6266084000,
+          "holdingsCount": 7,
+          "topHolding": "CMG",
+          "filedAt": "11/14/2019"
+        },
+        {
+          "date": "2019-12-31",
+          "quarter": "Q4-2019",
+          "portfolioValue": 6552857000,
+          "holdingsCount": 8,
+          "topHolding": "CMG",
+          "filedAt": "2/14/2020"
+        },
+        {
+          "date": "2020-03-31",
+          "quarter": "Q1-2020",
+          "portfolioValue": 6572994000,
+          "holdingsCount": 10,
+          "topHolding": "LOW",
+          "filedAt": "5/15/2020"
+        },
+        {
+          "date": "2020-06-30",
+          "quarter": "Q2-2020",
+          "portfolioValue": 7752895000,
+          "holdingsCount": 7,
+          "topHolding": "LOW",
+          "filedAt": "8/14/2020"
+        },
+        {
+          "date": "2020-09-30",
+          "quarter": "Q3-2020",
+          "portfolioValue": 8822665000,
+          "holdingsCount": 7,
+          "topHolding": "LOW",
+          "filedAt": "10/23/2020"
+        },
+        {
+          "date": "2020-12-31",
+          "quarter": "Q4-2020",
+          "portfolioValue": 10002979000,
+          "holdingsCount": 7,
+          "topHolding": "LOW",
+          "filedAt": "2/16/2021"
+        },
+        {
+          "date": "2021-03-31",
+          "quarter": "Q1-2021",
+          "portfolioValue": 10460896000,
+          "holdingsCount": 7,
+          "topHolding": "LOW",
+          "filedAt": "5/17/2021"
+        },
+        {
+          "date": "2021-06-30",
+          "quarter": "Q2-2021",
+          "portfolioValue": 10709784000,
+          "holdingsCount": 7,
+          "topHolding": "LOW",
+          "filedAt": "8/16/2021"
+        },
+        {
+          "date": "2021-09-30",
+          "quarter": "Q3-2021",
+          "portfolioValue": 9463494000,
+          "holdingsCount": 6,
+          "topHolding": "LOW",
+          "filedAt": "11/15/2021"
+        },
+        {
+          "date": "2021-12-31",
+          "quarter": "Q4-2021",
+          "portfolioValue": 202421000,
+          "holdingsCount": 1,
+          "topHolding": "CP.TO",
+          "filedAt": "3/7/2022"
+        },
+        {
+          "date": "2021-12-31",
+          "quarter": "Q4-2021",
+          "portfolioValue": 10578795000,
+          "holdingsCount": 6,
+          "topHolding": "LOW",
+          "filedAt": "2/14/2022"
+        },
+        {
+          "date": "2022-03-31",
+          "quarter": "Q1-2022",
+          "portfolioValue": 10391834000,
+          "holdingsCount": 8,
+          "topHolding": "LOW",
+          "filedAt": "5/16/2022"
+        },
+        {
+          "date": "2022-06-30",
+          "quarter": "Q2-2022",
+          "portfolioValue": 7462417000,
+          "holdingsCount": 7,
+          "topHolding": "LOW",
+          "filedAt": "8/15/2022"
+        },
+        {
+          "date": "2022-09-30",
+          "quarter": "Q3-2022",
+          "portfolioValue": 7877045000,
+          "holdingsCount": 6,
+          "topHolding": "LOW",
+          "filedAt": "11/14/2022"
+        },
+        {
+          "date": "2022-12-31",
+          "quarter": "Q4-2022",
+          "portfolioValue": 8784004000,
+          "holdingsCount": 6,
+          "topHolding": "LOW",
+          "filedAt": "2/13/2023"
+        },
+        {
+          "date": "2023-03-31",
+          "quarter": "Q1-2023",
+          "portfolioValue": 10216505000,
+          "holdingsCount": 8,
+          "topHolding": "LOW",
+          "filedAt": "5/15/2023"
+        },
+        {
+          "date": "2023-06-30",
+          "quarter": "Q2-2023",
+          "portfolioValue": 10816723000,
+          "holdingsCount": 8,
+          "topHolding": "CMG",
+          "filedAt": "8/14/2023"
+        },
+        {
+          "date": "2023-09-30",
+          "quarter": "Q3-2023",
+          "portfolioValue": 10494117000,
+          "holdingsCount": 8,
+          "topHolding": "CMG",
+          "filedAt": "11/14/2023"
+        },
+        {
+          "date": "2023-12-31",
+          "quarter": "Q4-2023",
+          "portfolioValue": 10396017000,
+          "holdingsCount": 8,
+          "topHolding": "CMG",
+          "filedAt": "2/14/2024"
+        },
+        {
+          "date": "2024-03-31",
+          "quarter": "Q1-2024",
+          "portfolioValue": 10761092000,
+          "holdingsCount": 7,
+          "topHolding": "CMG",
+          "filedAt": "5/15/2024"
+        },
+        {
+          "date": "2024-06-30",
+          "quarter": "Q2-2024",
+          "portfolioValue": 10411823000,
+          "holdingsCount": 9,
+          "topHolding": "HLT",
+          "filedAt": "8/14/2024"
+        },
+        {
+          "date": "2024-09-30",
+          "quarter": "Q3-2024",
+          "portfolioValue": 12916077000,
+          "holdingsCount": 11,
+          "topHolding": "BN.TO",
+          "filedAt": "11/14/2024"
+        },
+        {
+          "date": "2024-12-31",
+          "quarter": "Q4-2024",
+          "portfolioValue": 46533000,
+          "holdingsCount": 1,
+          "topHolding": "HTZ",
+          "filedAt": "4/16/2025"
+        },
+        {
+          "date": "2024-12-31",
+          "quarter": "Q4-2024",
+          "portfolioValue": 12614560000,
+          "holdingsCount": 10,
+          "topHolding": "BN.TO",
+          "filedAt": "2/14/2025"
+        },
+        {
+          "date": "2025-03-31",
+          "quarter": "Q1-2025",
+          "portfolioValue": 11930893000,
+          "holdingsCount": 11,
+          "topHolding": "UBER",
+          "filedAt": "5/15/2025"
+        },
+        {
+          "date": "2025-06-30",
+          "quarter": "Q2-2025",
+          "portfolioValue": 13729120000,
+          "holdingsCount": 11,
+          "topHolding": "UBER",
+          "filedAt": "8/14/2025"
+        },
+        {
+          "date": "2025-09-30",
+          "quarter": "Q3-2025",
+          "portfolioValue": 14643293000,
+          "holdingsCount": 11,
+          "topHolding": "UBER",
+          "filedAt": "11/14/2025"
+        },
+        {
+          "date": "2025-12-31",
+          "quarter": "Q4-2025",
+          "portfolioValue": 15526737000,
+          "holdingsCount": 11,
+          "topHolding": "BN.TO",
+          "filedAt": "2/17/2026"
+        },
+        {
+          "date": "2026-03-31",
+          "quarter": "Q1-2026",
+          "portfolioValue": 13714299000,
+          "holdingsCount": 11,
+          "topHolding": "BN.TO",
+          "filedAt": "5/15/2026"
+        }
+      ],
+      "latestHoldings": [
+        {
+          "symbol": "ZTS",
+          "name": "ZOETIS INC",
+          "title": "CL A",
+          "cusip": "98978V103",
+          "value": 1854020000,
+          "weight": 20.9,
+          "shares": 41823145,
+          "putCall": null
+        },
+        {
+          "symbol": "CP.TO",
+          "name": "CANADIAN PAC RY LTD",
+          "title": "COM",
+          "cusip": "13645T100",
+          "value": 1849817000,
+          "weight": 20.9,
+          "shares": 13940890,
+          "putCall": null
+        },
+        {
+          "symbol": "QSR",
+          "name": "RESTAURANT BRANDS INTL INC",
+          "title": "COM",
+          "cusip": "76131D103",
+          "value": 1520216000,
+          "weight": 17.2,
+          "shares": 39150551,
+          "putCall": null
+        },
+        {
+          "symbol": "APD",
+          "name": "AIR PRODS & CHEMS INC",
+          "title": "COM",
+          "cusip": "009158106",
+          "value": 1094944000,
+          "weight": 12.4,
+          "shares": 7601140,
+          "putCall": null
+        },
+        {
+          "symbol": "MDLZ",
+          "name": "MONDELEZ INTL INC",
+          "title": "CL A",
+          "cusip": "609207105",
+          "value": 920442000,
+          "weight": 10.4,
+          "shares": 22942225,
+          "putCall": null
+        },
+        {
+          "symbol": "BHC",
+          "name": "VALEANT PHARMACEUTICALS INTL",
+          "title": "COM",
+          "cusip": "91911K102",
+          "value": 567847000,
+          "weight": 6.4,
+          "shares": 21591122,
+          "putCall": null
+        },
+        {
+          "symbol": "HHC",
+          "name": "HOWARD HUGHES CORP",
+          "title": "COM",
+          "cusip": "44267D107",
+          "value": 377817000,
+          "weight": 4.3,
+          "shares": 3568017,
+          "putCall": null
+        },
+        {
+          "symbol": "ESI",
+          "name": "PLATFORM SPECIALTY PRODS COR",
+          "title": "COM",
+          "cusip": "72766Q105",
+          "value": 367542000,
+          "weight": 4.2,
+          "shares": 42737394,
+          "putCall": null
+        },
+        {
+          "symbol": "NOMD",
+          "name": "NOMAD HLDGS LTD",
+          "title": "USD ORD SHS",
+          "cusip": "G6564A105",
+          "value": 300333000,
+          "weight": 3.4,
+          "shares": 33333334,
+          "putCall": null
+        }
+      ],
+      "changes": [
+        {
+          "name": "ZOETIS INC",
+          "cusip": "98978V103",
+          "value": 1854020000,
+          "previousValue": 1004880000,
+          "diffValue": 849140000,
+          "status": "increased"
+        },
+        {
+          "name": "CANADIAN PAC RY LTD",
+          "cusip": "13645T100",
+          "value": 1849817000,
+          "previousValue": 1267408000,
+          "diffValue": 582409000,
+          "status": "increased"
+        },
+        {
+          "name": "VALEANT PHARMACEUTICALS INTL",
+          "cusip": "91911K102",
+          "value": 567847000,
+          "previousValue": 434845000,
+          "diffValue": 133002000,
+          "status": "increased"
+        },
+        {
+          "name": "MONDELEZ INTL INC",
+          "cusip": "609207105",
+          "value": 920442000,
+          "previousValue": 1044101000,
+          "diffValue": -123659000,
+          "status": "reduced"
+        },
+        {
+          "name": "RESTAURANT BRANDS INTL INC",
+          "cusip": "76131D103",
+          "value": 1520216000,
+          "previousValue": 1628663000,
+          "diffValue": -108447000,
+          "status": "reduced"
+        },
+        {
+          "name": "NOMAD HLDGS LTD",
+          "cusip": "G6564A105",
+          "value": 300333000,
+          "previousValue": 266000000,
+          "diffValue": 34333000,
+          "status": "increased"
+        },
+        {
+          "name": "HOWARD HUGHES CORP",
+          "cusip": "44267D107",
+          "value": 377817000,
+          "previousValue": 407896000,
+          "diffValue": -30079000,
+          "status": "reduced"
+        },
+        {
+          "name": "AIR PRODS & CHEMS INC",
+          "cusip": "009158106",
+          "value": 1094944000,
+          "previousValue": 1079666000,
+          "diffValue": 15278000,
+          "status": "increased"
+        },
+        {
+          "name": "PLATFORM SPECIALTY PRODS COR",
+          "cusip": "72766Q105",
+          "value": 367542000,
+          "previousValue": 379508000,
+          "diffValue": -11966000,
           "status": "reduced"
         }
       ]
@@ -5168,10 +5706,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "investor": "Bill Ackman",
-      "error": "HTTP Error 500: Internal Server Error"
-    }
-  ]
+  "errors": []
 }
