@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:54:34Z",
+  "generatedAt": "2026-08-14T01:25:34Z",
   "yearsBack": 10,
   "investorCount": 10,
   "rankings": [
@@ -54,9 +54,9 @@
     {
       "name": "Seth Klarman",
       "entity": "Baupost Group",
-      "quarter": "Q1-2026",
-      "portfolioValue": 5115380000,
-      "valueChange": -163210000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 5415853000,
+      "valueChange": 300473000,
       "topHolding": "E M C CORP MASS"
     },
     {
@@ -4014,10 +4014,10 @@
       "entity": "Baupost Group",
       "sourceUrl": "https://13f.info/manager/0001061768-baupost-group-llc-ma",
       "accent": "#f43f5e",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 5115380000,
-      "portfolioValueChange": -163210000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 5415853000,
+      "portfolioValueChange": 300473000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -4346,6 +4346,14 @@
           "holdingsCount": 22,
           "topHolding": "AMZN",
           "filedAt": "5/14/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 5415853000,
+          "holdingsCount": 23,
+          "topHolding": "AMZN",
+          "filedAt": "8/13/2026"
         }
       ],
       "latestHoldings": [
