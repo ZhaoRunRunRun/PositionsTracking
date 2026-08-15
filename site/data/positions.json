@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-14T10:50:38Z",
+  "generatedAt": "2026-08-15T00:56:08Z",
   "yearsBack": 10,
   "investorCount": 10,
   "rankings": [
     {
       "name": "Warren Buffett",
       "entity": "Berkshire Hathaway",
-      "quarter": "Q1-2026",
-      "portfolioValue": 263095703000,
-      "valueChange": -11064383000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 299253556000,
+      "valueChange": 36157853000,
       "topHolding": "KRAFT HEINZ CO"
     },
     {
       "name": "Bill Gates",
       "entity": "Gates Foundation Trust",
-      "quarter": "Q1-2026",
-      "portfolioValue": 31665505000,
-      "valueChange": -3694588000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 34424791000,
+      "valueChange": 2759286000,
       "topHolding": "BERKSHIRE HATHAWAY INC DEL"
     },
     {
       "name": "Ray Dalio",
       "entity": "Bridgewater Associates",
-      "quarter": "Q1-2026",
-      "portfolioValue": 22404547000,
-      "valueChange": -5017066000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 24376086000,
+      "valueChange": 1971539000,
       "topHolding": "VANGUARD INTL EQUITY INDEX F"
     },
     {
@@ -38,17 +38,17 @@
     {
       "name": "Carl Icahn",
       "entity": "Icahn Capital",
-      "quarter": "Q1-2026",
-      "portfolioValue": 8553640000,
-      "valueChange": 108473000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 8264090000,
+      "valueChange": -289550000,
       "topHolding": "ICAHN ENTERPRISES LP"
     },
     {
       "name": "David Tepper",
       "entity": "Appaloosa",
-      "quarter": "Q1-2026",
-      "portfolioValue": 5933477000,
-      "valueChange": -991543000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 7725383000,
+      "valueChange": 1791906000,
       "topHolding": "SPDR S&P 500 ETF TR"
     },
     {
@@ -62,17 +62,17 @@
     {
       "name": "Stanley Druckenmiller",
       "entity": "Duquesne Family Office",
-      "quarter": "Q1-2026",
-      "portfolioValue": 3376828000,
-      "valueChange": -1117622000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 5210856000,
+      "valueChange": 1834028000,
       "topHolding": "SPDR Gold Trust"
     },
     {
       "name": "Dan Loeb",
       "entity": "Third Point",
-      "quarter": "Q1-2026",
-      "portfolioValue": 2082795000,
-      "valueChange": -5191826000,
+      "quarter": "Q2-2026",
+      "portfolioValue": 4679571000,
+      "valueChange": 2596776000,
       "topHolding": "BAXTER INTL INC"
     },
     {
@@ -212,10 +212,10 @@
       "entity": "Berkshire Hathaway",
       "sourceUrl": "https://13f.info/manager/0001067983-berkshire-hathaway-inc",
       "accent": "#f59e0b",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 263095703000,
-      "portfolioValueChange": -11064383000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 299253556000,
+      "portfolioValueChange": 36157853000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -576,6 +576,14 @@
           "holdingsCount": 29,
           "topHolding": "AAPL",
           "filedAt": "5/15/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 299253556000,
+          "holdingsCount": 29,
+          "topHolding": "AAPL",
+          "filedAt": "8/14/2026"
         }
       ],
       "latestHoldings": [
@@ -1758,10 +1766,10 @@
       "entity": "Appaloosa",
       "sourceUrl": "https://13f.info/manager/0001656456-appaloosa-lp",
       "accent": "#fb7185",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 5933477000,
-      "portfolioValueChange": -991543000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 7725383000,
+      "portfolioValueChange": 1791906000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -2090,6 +2098,14 @@
           "holdingsCount": 31,
           "topHolding": "AMZN",
           "filedAt": "5/15/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 7725383000,
+          "holdingsCount": 27,
+          "topHolding": "AMZN",
+          "filedAt": "8/14/2026"
         }
       ],
       "latestHoldings": [
@@ -2318,10 +2334,10 @@
       "entity": "Bridgewater Associates",
       "sourceUrl": "https://13f.info/manager/0001350694-bridgewater-associates-lp",
       "accent": "#a78bfa",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 22404547000,
-      "portfolioValueChange": -5017066000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 24376086000,
+      "portfolioValueChange": 1971539000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -2666,6 +2682,14 @@
           "holdingsCount": 993,
           "topHolding": "SPY",
           "filedAt": "5/15/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 24376086000,
+          "holdingsCount": 997,
+          "topHolding": "SPY",
+          "filedAt": "8/14/2026"
         }
       ],
       "latestHoldings": [
@@ -2894,10 +2918,10 @@
       "entity": "Icahn Capital",
       "sourceUrl": "https://13f.info/manager/0000921669-icahn-carl-c",
       "accent": "#f97316",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 8553640000,
-      "portfolioValueChange": 108473000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 8264090000,
+      "portfolioValueChange": -289550000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -3226,6 +3250,14 @@
           "holdingsCount": 12,
           "topHolding": "IEP",
           "filedAt": "5/15/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 8264090000,
+          "holdingsCount": 12,
+          "topHolding": "IEP",
+          "filedAt": "8/14/2026"
         }
       ],
       "latestHoldings": [
@@ -3454,10 +3486,10 @@
       "entity": "Third Point",
       "sourceUrl": "https://13f.info/manager/0001040273-third-point-llc",
       "accent": "#2dd4bf",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 2082795000,
-      "portfolioValueChange": -5191826000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 4679571000,
+      "portfolioValueChange": 2596776000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -3786,6 +3818,14 @@
           "holdingsCount": 33,
           "topHolding": "AMZN",
           "filedAt": "5/15/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 4679571000,
+          "holdingsCount": 43,
+          "topHolding": "WBD",
+          "filedAt": "8/14/2026"
         }
       ],
       "latestHoldings": [
@@ -4582,10 +4622,10 @@
       "entity": "Duquesne Family Office",
       "sourceUrl": "https://13f.info/manager/0001536411-duquesne-family-office-llc",
       "accent": "#84cc16",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 3376828000,
-      "portfolioValueChange": -1117622000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 5210856000,
+      "portfolioValueChange": 1834028000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -4930,6 +4970,14 @@
           "holdingsCount": 70,
           "topHolding": "NTRA",
           "filedAt": "5/15/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 5210856000,
+          "holdingsCount": 95,
+          "topHolding": "NTRA",
+          "filedAt": "8/14/2026"
         }
       ],
       "latestHoldings": [
@@ -5158,10 +5206,10 @@
       "entity": "Gates Foundation Trust",
       "sourceUrl": "https://13f.info/manager/0001166559-gates-foundation-trust",
       "accent": "#06b6d4",
-      "latestQuarter": "Q1-2026",
-      "latestDate": "2026-03-31",
-      "latestPortfolioValue": 31665505000,
-      "portfolioValueChange": -3694588000,
+      "latestQuarter": "Q2-2026",
+      "latestDate": "2026-06-30",
+      "latestPortfolioValue": 34424791000,
+      "portfolioValueChange": 2759286000,
       "timeline": [
         {
           "date": "2016-03-31",
@@ -5490,6 +5538,14 @@
           "holdingsCount": 22,
           "topHolding": "BRK-B",
           "filedAt": "5/15/2026"
+        },
+        {
+          "date": "2026-06-30",
+          "quarter": "Q2-2026",
+          "portfolioValue": 34424791000,
+          "holdingsCount": 24,
+          "topHolding": "BRK-B",
+          "filedAt": "8/14/2026"
         }
       ],
       "latestHoldings": [
