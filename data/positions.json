@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:24:54Z",
+  "generatedAt": "2026-10-07T03:54:55Z",
   "yearsBack": 10,
   "investorCount": 10,
   "rankings": [
@@ -688,7 +688,7 @@
           "putCall": null
         },
         {
-          "symbol": "LBRDA",
+          "symbol": "CHTR",
           "name": "CHARTER COMMUNICATIONS INC D",
           "title": "CL A NEW",
           "cusip": "16117M305",
@@ -1438,7 +1438,7 @@
           "quarter": "Q4-2021",
           "portfolioValue": 202421000,
           "holdingsCount": 1,
-          "topHolding": "CP.TO",
+          "topHolding": "CP",
           "filedAt": "3/7/2022"
         },
         {
@@ -1534,7 +1534,7 @@
           "quarter": "Q3-2024",
           "portfolioValue": 12916077000,
           "holdingsCount": 11,
-          "topHolding": "BN.TO",
+          "topHolding": "BN",
           "filedAt": "11/14/2024"
         },
         {
@@ -1550,7 +1550,7 @@
           "quarter": "Q4-2024",
           "portfolioValue": 12614560000,
           "holdingsCount": 10,
-          "topHolding": "BN.TO",
+          "topHolding": "BN",
           "filedAt": "2/14/2025"
         },
         {
@@ -1582,7 +1582,7 @@
           "quarter": "Q4-2025",
           "portfolioValue": 15526737000,
           "holdingsCount": 11,
-          "topHolding": "BN.TO",
+          "topHolding": "BN",
           "filedAt": "2/17/2026"
         },
         {
@@ -1590,7 +1590,7 @@
           "quarter": "Q1-2026",
           "portfolioValue": 13714299000,
           "holdingsCount": 11,
-          "topHolding": "BN.TO",
+          "topHolding": "BN",
           "filedAt": "5/15/2026"
         }
       ],
@@ -1606,7 +1606,7 @@
           "putCall": null
         },
         {
-          "symbol": "CP.TO",
+          "symbol": "CP",
           "name": "CANADIAN PAC RY LTD",
           "title": "COM",
           "cusip": "13645T100",
@@ -1646,7 +1646,7 @@
           "putCall": null
         },
         {
-          "symbol": "BHC",
+          "symbol": "VRX",
           "name": "VALEANT PHARMACEUTICALS INTL",
           "title": "COM",
           "cusip": "91911K102",
@@ -1666,7 +1666,7 @@
           "putCall": null
         },
         {
-          "symbol": "ESI",
+          "symbol": "PAH",
           "name": "PLATFORM SPECIALTY PRODS COR",
           "title": "COM",
           "cusip": "72766Q105",
@@ -2150,7 +2150,7 @@
           "putCall": null
         },
         {
-          "symbol": null,
+          "symbol": "WPZ",
           "name": "WILLIAMS PARTNERS L P NEW",
           "title": "COM UNIT LTD PAR",
           "cusip": "96949L105",
@@ -3352,7 +3352,7 @@
           "putCall": null
         },
         {
-          "symbol": null,
+          "symbol": "HTZ",
           "name": "HERTZ GLOBAL HOLDINGS INC",
           "title": "COM",
           "cusip": "42805T105",
@@ -3656,7 +3656,7 @@
           "quarter": "Q1-2021",
           "portfolioValue": 14837288000,
           "holdingsCount": 125,
-          "topHolding": "UPSTART HLDGS INC",
+          "topHolding": "UPST",
           "filedAt": "5/14/2021"
         },
         {
@@ -3664,7 +3664,7 @@
           "quarter": "Q2-2021",
           "portfolioValue": 17083306000,
           "holdingsCount": 126,
-          "topHolding": "UPSTART HLDGS INC",
+          "topHolding": "UPST",
           "filedAt": "8/16/2021"
         },
         {
@@ -3672,7 +3672,7 @@
           "quarter": "Q3-2021",
           "portfolioValue": 18319374000,
           "holdingsCount": 113,
-          "topHolding": "UPSTART HLDGS INC",
+          "topHolding": "UPST",
           "filedAt": "11/15/2021"
         },
         {
@@ -4136,7 +4136,7 @@
           "quarter": "Q2-2018",
           "portfolioValue": 11437239000,
           "holdingsCount": 33,
-          "topHolding": "TFCFA",
+          "topHolding": "FOXA",
           "filedAt": "8/13/2018"
         },
         {
@@ -4144,7 +4144,7 @@
           "quarter": "Q3-2018",
           "portfolioValue": 13056762000,
           "holdingsCount": 38,
-          "topHolding": "TFCFA",
+          "topHolding": "FOXA",
           "filedAt": "11/15/2018"
         },
         {
@@ -4152,7 +4152,7 @@
           "quarter": "Q4-2018",
           "portfolioValue": 11523228000,
           "holdingsCount": 37,
-          "topHolding": "TFCFA",
+          "topHolding": "FOXA",
           "filedAt": "2/13/2019"
         },
         {
@@ -4312,7 +4312,7 @@
           "quarter": "Q4-2023",
           "portfolioValue": 4585037000,
           "holdingsCount": 23,
-          "topHolding": "LIBERTY GLOBAL LTD",
+          "topHolding": "LBTYK",
           "filedAt": "2/13/2024"
         },
         {
@@ -4478,7 +4478,7 @@
           "putCall": null
         },
         {
-          "symbol": "TFCFA",
+          "symbol": "FOXA",
           "name": "TWENTY FIRST CENTY FOX INC",
           "title": "CL A",
           "cusip": "90130A101",
@@ -4488,7 +4488,7 @@
           "putCall": null
         },
         {
-          "symbol": "TFCF",
+          "symbol": "FOX",
           "name": "TWENTY FIRST CENTY FOX INC",
           "title": "CL B",
           "cusip": "90130A200",
@@ -5570,7 +5570,7 @@
           "putCall": null
         },
         {
-          "symbol": "CNR.TO",
+          "symbol": "CNI",
           "name": "CANADIAN NATL RY CO",
           "title": "COM",
           "cusip": "136375102",
